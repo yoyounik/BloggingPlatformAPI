@@ -25,3 +25,6 @@ Filter blog posts by a search term
 
 ![image](https://github.com/user-attachments/assets/9932ada2-7a83-4d74-a1d8-466a3b55e758)
 
+![image](https://github.com/user-attachments/assets/29c5e363-f040-4ca8-b0d3-3d2c7cd653de)
+
+
