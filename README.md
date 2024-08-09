@@ -22,3 +22,6 @@ Delete an existing blog post
 Get a single blog post
 Get all blog posts
 Filter blog posts by a search term
+
+![image](https://github.com/user-attachments/assets/9932ada2-7a83-4d74-a1d8-466a3b55e758)
+
